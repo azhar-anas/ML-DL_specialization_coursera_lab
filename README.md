@@ -8,11 +8,11 @@ This repository contains my lab work and programming assignments for various mac
 
 Here is a list of the courses included in this repository, along with links to their respective certificate of completion.
 
-1.  **[Math for Machine Learning and Data Science](https://www.coursera.org/learn/mathematics-for-machine-learning-and-data-science)**
+1.  **[Math for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)**
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/7D3D51B4NP33)
+2.  **[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)**
     * **Certificate:** [Link to your certificate]
-2.  **[Machine Learning](https://www.coursera.org/learn/machine-learning)**
-    * **Certificate:** [Link to your certificate]
-3.  **[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/specializations/tensorflow-developer)**
+3.  **[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice)**
     * **Certificate:** [Link to your certificate]
 4.  **[Deep Learning](https://www.coursera.org/specializations/deep-learning)**
     * **Certificate:** [Link to your certificate]
