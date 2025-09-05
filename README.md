@@ -11,19 +11,19 @@ Here is a list of the courses included in this repository, along with links to t
 1.  **[Math for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)**
     * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/7D3D51B4NP33)
 2.  **[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)**
-    * **Certificate:** [Link to your certificate]
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/4EKN51X2UW2O)
 3.  **[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice)**
-    * **Certificate:** [Link to your certificate]
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/professional-cert/6S460IRP6Q7J)
 4.  **[Deep Learning](https://www.coursera.org/specializations/deep-learning)**
-    * **Certificate:** [Link to your certificate]
-5.  **[TensorFlow Data and Deployment](https://www.coursera.org/learn/tensorflow-data-and-deployment)**
-    * **Certificate:** [Link to your certificate]
-6.  **[TensorFlow Advanced Techniques](https://www.coursera.org/learn/tensorflow-advanced-techniques)**
-    * **Certificate:** [Link to your certificate]
-7.  **[Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/generative-adversarial-networks-gans)**
-    * **Certificate:** [Link to your certificate]
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/U13JJ27Q1NVQ)
+5.  **[TensorFlow Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)**
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/DHK39DIPPEF9)
+6.  **[TensorFlow Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)**
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/ZTCC1BAE1RHP)
+7.  **[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans)**
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/AX4TW1YMY1VK)
 8.  **[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)**
-    * **Certificate:** [Link to your certificate]
+    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/CB4C5ZMWLILQ)
 
 ---
 
