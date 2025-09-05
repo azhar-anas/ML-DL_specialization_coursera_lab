@@ -1,4 +1,4 @@
-# Coursera Machine Learning & Deep Learning Lab
+<h1 align="center">Machine Learning & Deep Learning Coursera Lab</h1>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a>
@@ -9,6 +9,8 @@
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> </a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> </a>
 </p>
+
+This repository contains my lab work and programming assignments for various machine learning and deep learning courses I have completed on Coursera. This is a personal log of my learning journey, showcasing my progress and completed projects.
 
 ---
 
