@@ -1,6 +1,13 @@
 # Coursera Machine Learning & Deep Learning Courses Lab
 
-This repository contains my lab work and programming assignments for various machine learning and deep learning courses I have completed on Coursera. This is a personal log of my learning journey, showcasing my progress and completed projects.
+<p align="center">
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white"> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Seaborn-80b6ff?style=for-the-badge&logo=seaborn&logoColor=white"> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> </a>
+</p>
 
 ---
 
@@ -9,21 +16,21 @@ This repository contains my lab work and programming assignments for various mac
 Here is a list of the courses included in this repository, along with links to their respective certificate of completion.
 
 1.  **[Math for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/7D3D51B4NP33)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/7D3D51B4NP33)
 2.  **[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/4EKN51X2UW2O)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/4EKN51X2UW2O)
 3.  **[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/professional-cert/6S460IRP6Q7J)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6S460IRP6Q7J)
 4.  **[Deep Learning](https://www.coursera.org/specializations/deep-learning)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/U13JJ27Q1NVQ)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/U13JJ27Q1NVQ)
 5.  **[TensorFlow Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/DHK39DIPPEF9)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/DHK39DIPPEF9)
 6.  **[TensorFlow Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/ZTCC1BAE1RHP)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/ZTCC1BAE1RHP)
 7.  **[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/AX4TW1YMY1VK)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/AX4TW1YMY1VK)
 8.  **[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)**
-    * **Certificate:** [click here](https://www.coursera.org/account/accomplishments/specialization/CB4C5ZMWLILQ)
+    * **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/CB4C5ZMWLILQ)
 
 ---
 
